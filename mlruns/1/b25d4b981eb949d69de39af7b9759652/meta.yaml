@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/b25d4b981eb949d69de39af7b9759652/artifacts
+end_time: 1650365152870
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b25d4b981eb949d69de39af7b9759652
+run_uuid: b25d4b981eb949d69de39af7b9759652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650365150770
+status: 3
+tags: []
+user_id: bijin
